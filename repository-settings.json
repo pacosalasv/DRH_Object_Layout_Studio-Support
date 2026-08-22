@@ -1,0 +1,17 @@
+{
+  "description": "Shared support, documentation, release tracking, and issue reporting for DRH - Object Layout Studio Complete and Lite. Both editions are pending provider review.",
+  "homepage": "https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "alignment",
+    "object-layout",
+    "precision-tools",
+    "3d",
+    "drh",
+    "pending-review"
+  ]
+}
