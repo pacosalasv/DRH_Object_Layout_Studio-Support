@@ -7,11 +7,11 @@
 <div align="center">
 
 # DRH - Object Layout Studio
-### Public Support Hub · Documentation · Feedback · Pending Review
+### Public Support Hub · Documentation · Feedback · Released
 
 **Align, distribute, arrange, orient, register, ground, quantize, and transform objects with precision.**
 
-![Status](https://img.shields.io/badge/status-Pending%20Review-F2C94C?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-Released-22C55E?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-EAF2FF?style=for-the-badge&labelColor=0B1F4D&color=EAF2FF)
@@ -30,9 +30,9 @@
 
 **DRH - Object Layout Studio** helps Blender users align, distribute, arrange, move, rotate, orient, register, ground, quantize, and position objects through repeatable layout and geometry-aware workflows.
 
-**Complete and Lite have both been submitted and are currently awaiting provider approval.**
+**Complete and Lite are available through BlendKit.**
 
-This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, release-review feedback, and future release notes for both editions.
+This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and release notes for both editions.
 
 </div>
 
@@ -104,17 +104,17 @@ The editions use separate extension IDs and can be installed independently. When
 |---|---|
 | <img width="330" alt="DRH - Object Layout Studio Complete" src="docs/media/Logo.png" /> | <img width="330" alt="DRH - Object Layout Studio Lite" src="docs/media/LogoLite.png" /> |
 | Align · Transform · Advanced · Utility | Align · Transform |
-| 🟡 **Pending Review** | 🟡 **Pending Review** |
+| 🟢 **Released** | 🟢 **Released** |
 
 </div>
 
-Both editions are in provider review for the 1.0.0 release. The support repository remains shared so documentation, issue tracking, compatibility information, and release notes stay in one place.
+Both editions have released 1.0.0 listings on BlendKit. The support repository remains shared so documentation, issue tracking, compatibility information, and release notes stay in one place.
 
 ---
 
 ## Media preview
 
-The screenshots below reflect the submitted 1.0.0 interface and are organized by workflow area.
+The screenshots below reflect the 1.0.0 interface and are organized by workflow area.
 
 ### Core layout workflows
 
@@ -156,7 +156,7 @@ The screenshots below reflect the submitted 1.0.0 interface and are organized by
   <img width="700" alt="Object Layout Studio settings for sidebar tab, panel title, tabbed layout, collapsible subgroups, context menu, and performance profile" src="docs/media/ScreenShot_11.png" />
 </div>
 
-> Screenshots show the submitted 1.0.0 interface. Minor UI or packaging details may change during provider review.
+> Screenshots show the 1.0.0 interface. Marketplace packaging may evolve independently of this support documentation.
 
 ---
 
@@ -317,24 +317,22 @@ DRH - Object Layout Studio is designed for:
 
 | Item | Details |
 |---|---|
-| **Status** | 🟡 Pending Review |
+| **Status** | 🟢 Released |
 | **Current version** | 1.0.0 |
 | **Minimum Blender version** | 4.2.0 |
 | **Platforms** | Windows, macOS, Linux |
-| **Release stage** | Submitted release candidate awaiting provider approval |
+| **Release stage** | Public BlendKit release |
 | **Editions** | Complete and Lite |
-| **Distribution** | Blendkit after approval |
+| **Distribution** | [Complete on BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Lite on BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) |
 | **Support repository** | [DRH Object Layout Studio Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
 
-Both editions have been submitted for approval. The project is now presented as a release candidate under review rather than an early-development build.
-
-Compatibility feedback, usability comments, performance observations, Complete/Lite workflow feedback, and documentation corrections remain welcome during review and after release.
+Both editions are publicly available through BlendKit. Compatibility feedback, usability comments, performance observations, Complete/Lite workflow feedback, and documentation corrections remain welcome.
 
 ---
 
 ## Feedback and compatibility reports
 
-This repository remains open for public feedback while Complete and Lite are under provider review and after their public release.
+This repository remains open for public feedback for both released editions.
 
 Feedback is especially useful for:
 
@@ -354,7 +352,7 @@ Feedback is especially useful for:
 - Installation experience.
 - Compatibility concerns.
 - Documentation clarity.
-- Provider delivery or listing issues after approval.
+- BlendKit delivery or listing issues after release.
 
 Useful feedback examples:
 
@@ -371,6 +369,9 @@ Useful feedback examples:
 ---
 
 ## Quick links
+
+- [Download Complete on BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/)
+- [Download Lite on BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/)
 
 - [Support repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support)
 - [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/discussions)
@@ -416,7 +417,7 @@ For compatibility or performance issues, please also include:
 - Compatibility checks.
 - FAQ.
 - Suggestions.
-- Release-review feedback.
+- Release feedback.
 - Complete vs Lite workflow feedback.
 - Performance observations.
 - Workflow ideas.
@@ -450,7 +451,7 @@ Open a **Discussion** for:
 - Setup help.
 - Workflow advice.
 - Suggestions.
-- Review-stage feedback.
+- Release feedback.
 
 Open an **Issue** for:
 
@@ -497,18 +498,12 @@ The add-on is intended to work locally inside Blender.
 
 ## Availability
 
-**DRH - Object Layout Studio Complete** and **DRH - Object Layout Studio Lite** have both been submitted and are currently awaiting provider approval.
+Official installable releases are distributed through **BlendKit**:
 
-Official installable releases will be distributed through **Blendkit after approval**. Until then, this GitHub repository remains the central public location for:
+- [DRH - Object Layout Studio Complete](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/)
+- [DRH - Object Layout Studio Lite](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/)
 
-- Support.
-- Documentation.
-- Issue tracking.
-- Compatibility reports.
-- Public feedback.
-- Release notes.
-
-This repository does not serve as the official provider release-package download location.
+This GitHub repository remains the central public location for support, documentation, issue tracking, compatibility reports, public feedback, and release notes. It does not serve as the official installable-package download location.
 
 ---
 

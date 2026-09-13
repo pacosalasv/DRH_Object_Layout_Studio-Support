@@ -6,7 +6,7 @@ For public support, please use GitHub Discussions:
 - Installation help
 - Compatibility checks
 - Workflow guidance
-- Review-stage feedback
+- Release feedback
 - Complete vs Lite workflow feedback
 
 For confirmed technical problems, use GitHub Issues:
@@ -17,9 +17,12 @@ For confirmed technical problems, use GitHub Issues:
 - Compatibility problems
 - Provider or delivery problems after release
 
-**DRH - Object Layout Studio Complete** and **DRH - Object Layout Studio Lite** are currently **Pending Review** after submission for provider approval.
+**DRH - Object Layout Studio Complete** and **DRH - Object Layout Studio Lite** are currently **Released** on BlendKit.
 
-Official installable releases will be distributed through **Blendkit after approval**. This GitHub repository remains the public support and documentation hub and does not serve as the official provider release-package download location.
+Official installable releases are distributed through **BlendKit**. This GitHub repository remains the public support and documentation hub and does not serve as the official installable-package download location.
+
+- Complete: https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/
+- Lite: https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/
 
 When reporting an Object Layout Studio issue, specify whether you are using the **Complete** or **Lite** edition.
 

@@ -1,17 +1,17 @@
 {
-  "description": "Shared support, documentation, release tracking, and issue reporting for DRH - Object Layout Studio Complete and Lite. Both editions are pending provider review.",
-  "homepage": "https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support",
+  "description": "Support and documentation for DRH - Object Layout Studio Complete and Lite. Official installable releases are distributed through BlendKit.",
+  "homepage": "https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/",
   "visibility": "public",
   "has_issues": true,
   "has_discussions": true,
   "topics": [
     "blender",
     "blender-addon",
-    "alignment",
     "object-layout",
+    "alignment",
+    "distribution",
     "precision-tools",
-    "3d",
-    "drh",
-    "pending-review"
+    "technical-support",
+    "drh"
   ]
 }
