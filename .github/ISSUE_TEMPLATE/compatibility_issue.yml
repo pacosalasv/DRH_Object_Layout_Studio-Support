@@ -1,19 +1,9 @@
 name: Compatibility issue
-description: Report a Blender version or platform compatibility problem in DRH - Object Layout Studio.
+description: Report a Blender-version or platform compatibility problem with DRH - Object Layout Studio.
 title: "[Compatibility]: "
 labels:
   - compatibility issue
 body:
-  - type: dropdown
-    id: edition
-    attributes:
-      label: Edition
-      options:
-        - Complete - DRH - Object Layout Studio
-        - Lite - DRH - Object Layout Studio Lite
-    validations:
-      required: true
-
   - type: input
     id: addon_version
     attributes:
@@ -46,10 +36,11 @@ body:
     id: problem
     attributes:
       label: Compatibility problem
+      description: Describe what fails and whether the same workflow works in another Blender version or platform.
     validations:
       required: true
 
   - type: textarea
     id: evidence
     attributes:
-      label: Error message or screenshot
+      label: Error output or screenshot

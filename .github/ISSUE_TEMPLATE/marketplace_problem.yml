@@ -1,4 +1,4 @@
-name: Marketplace / distribution problem
+name: Marketplace or distribution problem
 description: Report an installation, listing, package, or delivery problem for DRH - Object Layout Studio.
 title: "[Distribution]: "
 labels:
@@ -7,17 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        DRH - Object Layout Studio is currently in development. Use this form for development-package, installation, or delivery problems.
-
-  - type: dropdown
-    id: edition
-    attributes:
-      label: Edition
-      options:
-        - Complete - DRH - Object Layout Studio
-        - Lite - DRH - Object Layout Studio Lite
-    validations:
-      required: true
+        Use this form for distribution problems. Do not post payment details, account credentials, or license keys.
 
   - type: input
     id: product_version
@@ -30,7 +20,7 @@ body:
   - type: textarea
     id: problem_summary
     attributes:
-      label: Problem summary
+      label: Problem
     validations:
       required: true
 

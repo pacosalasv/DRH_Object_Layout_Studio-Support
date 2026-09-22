@@ -7,9 +7,10 @@
 <div align="center">
 
 # DRH - Object Layout Studio
-### Public Support Hub · Documentation · Feedback · Released
 
-**Align, distribute, arrange, orient, register, ground, quantize, and transform objects with precision.**
+### Support · Documentation · Feedback · Released
+
+Align, distribute, arrange, orient, register, ground, quantize, and transform objects with precision.
 
 ![Status](https://img.shields.io/badge/status-Released-22C55E?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
@@ -18,7 +19,7 @@
 
 <br>
 
-**Part of the DRH Add-ons ecosystem - Blender tools, updates, and releases.**
+DRH Blender Tools: support, documentation, and release information.
 
 [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
@@ -28,71 +29,24 @@
 
 <div align="center">
 
-**DRH - Object Layout Studio** helps Blender users align, distribute, arrange, move, rotate, orient, register, ground, quantize, and position objects through repeatable layout and geometry-aware workflows.
+DRH - Object Layout Studio helps Blender users align, distribute, arrange, move, rotate, orient, register, ground, quantize, and position objects through repeatable layout and geometry-aware workflows.
 
-**Complete and Lite are available through BlendKit.**
+Complete and Lite are available through BlendKit.
 
-This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and release notes for both editions.
-
-</div>
-
----
-
-## Support DRH Development
-
-If **DRH - Object Layout Studio** helps you work faster or makes your Blender workflow more reliable, you can support ongoing DRH development on **Ko-fi**. Your contribution helps fund maintenance, Blender compatibility updates, documentation, testing, and the development of new production-focused tools across the DRH ecosystem. Support is completely optional, and bug reports, compatibility feedback, and workflow suggestions are always welcome.
-
-<div align="center">
-  <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Donate on Ko-fi to support DRH" src="docs/media/kofi_donate.png" />
-  </a>
-</div>
-
-<div align="center">
-
-[**Support DRH on Ko-fi**](https://ko-fi.com/pacosalasv)
+This repository provides shared documentation, support, issue tracking, compatibility notes, and release information for both editions.
 
 </div>
-
----
-
-<details>
-  <summary><strong>📚 Table of Contents</strong></summary>
-
-## Menu
-
-- [Overview](#overview)
-- [Editions](#editions)
-- [Media preview](#media-preview)
-- [What DRH - Object Layout Studio does](#what-drh---object-layout-studio-does)
-- [Key features](#key-features)
-- [Full feature list](#full-feature-list)
-- [Who is it for?](#who-is-it-for)
-- [Current status](#current-status)
-- [Feedback and compatibility reports](#feedback-and-compatibility-reports)
-- [Quick links](#quick-links)
-- [Before you post](#before-you-post)
-- [Use Discussions for](#use-discussions-for)
-- [Use Issues for](#use-issues-for)
-- [Where to post](#where-to-post)
-- [Support policy](#support-policy)
-- [Technical notes](#technical-notes)
-- [Availability](#availability)
-- [Documentation](#documentation)
-- [LICENSE](#LICENSE)
-
-</details>
 
 ---
 
 ## Overview
 
-**DRH - Object Layout Studio** is a Blender workflow utility designed to make object alignment, distribution, arrangement, transform matching, geometric alignment, registration, and precision placement faster and more repeatable.
+DRH - Object Layout Studio is a Blender workflow utility designed to make object alignment, distribution, arrangement, transform matching, geometric alignment, registration, and precision placement faster and more repeatable.
 
 The product is available in two editions:
 
-- **Complete - DRH - Object Layout Studio:** Align, Transform, Advanced, and Utility.
-- **Lite - DRH - Object Layout Studio Lite:** Align and Transform only.
+- Complete - DRH - Object Layout Studio: Align, Transform, Advanced, and Utility.
+- Lite - DRH - Object Layout Studio Lite: Align and Transform only.
 
 The editions use separate extension IDs and can be installed independently. When Complete and Lite are enabled at the same time, both editions display a warning that the Complete edition is active and recommend disabling Lite to avoid duplicate tools.
 
@@ -104,7 +58,7 @@ The editions use separate extension IDs and can be installed independently. When
 |---|---|
 | <img width="330" alt="DRH - Object Layout Studio Complete" src="docs/media/Logo.png" /> | <img width="330" alt="DRH - Object Layout Studio Lite" src="docs/media/LogoLite.png" /> |
 | Align · Transform · Advanced · Utility | Align · Transform |
-| 🟢 **Released** | 🟢 **Released** |
+| 🟢 Released | 🟢 Released |
 
 </div>
 
@@ -126,7 +80,7 @@ The screenshots below reflect the 1.0.0 interface and are organized by workflow 
 
 </div>
 
-### Advanced workflows — Complete edition
+### Advanced workflows - Complete edition
 
 <div align="center">
 
@@ -138,7 +92,7 @@ The screenshots below reflect the 1.0.0 interface and are organized by workflow 
 
 </div>
 
-### Utility workflows — Complete edition
+### Utility workflows - Complete edition
 
 <div align="center">
 
@@ -168,316 +122,181 @@ It is designed for scene-layout and geometry workflows where repeatable object r
 
 Use it to:
 
-- Align objects by origin or evaluated bounds.
-- Align selected objects to the active object.
-- Distribute objects by equal centers or true equal gaps.
-- Arrange objects in 1D and 2D layouts.
-- Move and rotate objects by exact values in local or world space.
-- Match location, rotation, scale, and supported dimensions from the active object.
-- Align objects relative to the current viewport.
-- Auto-orient objects from mesh geometry.
-- Align Point, Line, and Plane features.
-- Register source and target geometry using captured point pairs.
-- Refine object alignment with best-fit / ICP workflows.
-- Drop selected objects onto an active mesh surface.
-- Center, ground, quantize, and refine object origins.
-- Use the Lite edition when only Align and Transform workflows are needed.
+| Details |
+|---|
+| Align objects by origin or evaluated bounds |
+| Align selected objects to the active object |
+| Distribute objects by equal centers or true equal gaps |
+| Arrange objects in 1D and 2D layouts |
+| Move and rotate objects by exact values in local or world space |
+| Match location, rotation, scale, and supported dimensions from the active object |
+| Align objects relative to the current viewport |
+| Auto-orient objects from mesh geometry |
+| Align captured points, lines, and planes |
+| Register source and target geometry using captured point pairs |
+| Refine object alignment with best-fit / ICP workflows |
+| Drop selected objects onto an active mesh surface |
+| Center, ground, quantize, and refine object origins |
+| Use the Lite edition when only Align and Transform workflows are needed |
 
 ---
 
-### Key features
+### Capabilities
 
-- Precision origin and evaluated-bounds alignment.
-- Active, selection, cursor, and world references.
-- Equal-center and equal-gap distribution.
-- Grid, line, circle, and arc arrangement workflows.
-- Local and world transform controls.
-- View-aware alignment and distribution.
-- Geometry-driven Auto Orient.
-- Point / Line / Plane feature alignment.
-- Point-pair registration and best-fit refinement.
-- Surface placement and grounding.
-- Mesh Edit alignment helpers.
-- Center & Ground and Transform Quantize.
-- Configurable Sidebar Tab and Panel Title.
-- Collapsible subgroup workflow.
-- Object context-menu integration.
-- Complete and Lite editions using one shared support repository.
+| Details |
+|---|
+| Precision origin and evaluated-bounds alignment |
+| Active, selection, cursor, and world references |
+| Equal-center and equal-gap distribution |
+| Grid, line, circle, and arc arrangement workflows |
+| Local and world transform controls |
+| View-aware alignment and distribution |
+| Geometry-driven Auto Orient |
+| Point / Line / Plane feature alignment |
+| Point-pair registration and best-fit refinement |
+| Surface placement and grounding |
+| Mesh Edit alignment helpers |
+| Center & Ground and Transform Quantize |
+| Configurable Sidebar Tab and Panel Title |
+| Collapsible subgroup workflow |
+| Object context-menu integration |
+| Complete and Lite editions using one shared support repository |
 
 ---
 
 <details>
-  <summary><strong>🧩 Full feature list</strong></summary>
+  <summary>Feature reference</summary>
 
-## Full feature list
+## Feature reference
 
 ### Align
 
-- Origin alignment.
-- Evaluated bounds alignment.
-- Active object reference.
-- Selection reference.
-- 3D Cursor reference.
-- World reference.
-- Minimum / Center / Maximum mapping.
-- X / Y / Z alignment.
-- Align to Active location.
-- Align to Active rotation.
-- Align to Active scale.
-- 1D distribution.
-- 2D grid distribution.
-- Equal Centers.
-- Equal Gaps.
-- Swap transforms.
-- Randomize transforms.
+| Details |
+|---|
+| Origin alignment |
+| Evaluated bounds alignment |
+| Active object reference |
+| Selection reference |
+| 3D Cursor reference |
+| World reference |
+| Minimum / Center / Maximum mapping |
+| X / Y / Z alignment |
+| Align to Active location |
+| Align to Active rotation |
+| Align to Active scale |
+| 1D distribution |
+| 2D grid distribution |
+| Equal Centers |
+| Equal Gaps |
+| Swap transforms |
+| Randomize transforms |
 
 ### Transform
 
-- Separate / Arrange workflow.
-- Fixed-step arrangement.
-- Bounds-aware arrangement.
-- Move by exact distance.
-- Rotate by exact angle.
-- Local transform space.
-- World transform space.
-- Respect transform locks.
-- Hierarchy-safe transform handling.
+| Details |
+|---|
+| Separate / Arrange workflow |
+| Fixed-step arrangement |
+| Bounds-aware arrangement |
+| Move by exact distance |
+| Rotate by exact angle |
+| Local transform space |
+| World transform space |
+| Respect transform locks |
+| Hierarchy-safe transform handling |
 
-### Advanced — Complete edition
+### Advanced - Complete edition
 
-- Active Reference.
-- Along Any Line.
-- Advanced Grid.
-- Circle / Arc.
-- View Align.
-- Auto Orient.
-- Surface-normal analysis.
-- PCA-based orientation.
-- Symmetry Assist.
-- Point feature capture and alignment.
-- Line feature capture and alignment.
-- Plane feature capture and alignment.
-- Arbitrary captured-line rotation.
-- Directional slide.
-- Geometric measurements.
-- Point-pair registration.
-- Best Fit / ICP.
-- Drop to Active Surface.
+| Details |
+|---|
+| Active Reference |
+| Along Any Line |
+| Advanced Grid |
+| Circle / Arc |
+| View Align |
+| Auto Orient |
+| Surface-normal analysis |
+| PCA-based orientation |
+| Symmetry Assist |
+| Point feature capture and alignment |
+| Line feature capture and alignment |
+| Plane feature capture and alignment |
+| Arbitrary captured-line rotation |
+| Directional slide |
+| Geometric measurements |
+| Point-pair registration |
+| Best Fit / ICP |
+| Drop to Active Surface |
 
-### Utility — Complete edition
+### Utility - Complete edition
 
-- Mesh Edit Align.
-- Flatten selected geometry by axis.
-- Store Reference Line.
-- Project selected vertices to line.
-- Origin to Surface.
-- Center & Ground.
-- Transform Quantize.
-- Origin to Bounds.
-- Bottom-center origin placement.
-- Bounds-center origin placement.
-- Match Active Dimensions.
+| Details |
+|---|
+| Mesh Edit Align |
+| Flatten selected geometry by axis |
+| Store Reference Line |
+| Project selected vertices to line |
+| Origin to Surface |
+| Center & Ground |
+| Transform Quantize |
+| Origin to Bounds |
+| Bottom-center origin placement |
+| Bounds-center origin placement |
+| Match Active Dimensions |
 
 ### Lite edition
 
-- Align.
-- Align to Active.
-- Distribution.
-- Rearrangement.
-- Separate / Arrange.
-- Move.
-- Rotate.
-- No Advanced tools.
-- No Utility tools.
+| Details |
+|---|
+| Align |
+| Align to Active |
+| Distribution |
+| Rearrangement |
+| Separate / Arrange |
+| Move |
+| Rotate |
+| No Advanced tools |
+| No Utility tools |
 
 </details>
 
 ---
 
-## Who is it for?
+## Intended users
 
 DRH - Object Layout Studio is designed for:
 
-- Blender modelers.
-- Hard-surface artists.
-- Environment artists.
-- Product visualization artists.
-- Architectural visualization users.
-- Technical artists.
-- Asset creators.
-- Scene-layout artists.
-- Users working with repeated object arrangements.
-- Users who need precise transform matching.
-- Users aligning geometry references or scans.
-- Users who want a smaller Align + Transform-only edition.
+| Details |
+|---|
+| Blender modelers |
+| Hard-surface artists |
+| Environment artists |
+| Product visualization artists |
+| Architectural visualization users |
+| Technical artists |
+| Asset creators |
+| Scene-layout artists |
+| Users working with repeated object arrangements |
+| Users who need precise transform matching |
+| Users aligning geometry references or scans |
+| Users who want a smaller Align + Transform-only edition |
 
 ---
 
-## Current status
+## Status
 
 | Item | Details |
 |---|---|
-| **Status** | 🟢 Released |
-| **Current version** | 1.0.0 |
-| **Minimum Blender version** | 4.2.0 |
-| **Platforms** | Windows, macOS, Linux |
-| **Release stage** | Public BlendKit release |
-| **Editions** | Complete and Lite |
-| **Distribution** | [Complete on BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Lite on BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) |
-| **Support repository** | [DRH Object Layout Studio Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| Status | 🟢 Released |
+| Current version | 1.0.0 |
+| Minimum Blender version | 4.2.0 |
+| Platforms | Windows, macOS, Linux |
+| Release stage | Public BlendKit release |
+| Editions | Complete and Lite |
+| Distribution | [Complete on BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Lite on BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) |
+| Support repository | [DRH Object Layout Studio Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
 
 Both editions are publicly available through BlendKit. Compatibility feedback, usability comments, performance observations, Complete/Lite workflow feedback, and documentation corrections remain welcome.
-
----
-
-## Feedback and compatibility reports
-
-This repository remains open for public feedback for both released editions.
-
-Feedback is especially useful for:
-
-- Alignment accuracy.
-- Origin and bounds behavior.
-- Distribution ordering.
-- Equal-center and equal-gap workflows.
-- Grid, line, circle, and arc arrangements.
-- Move and Rotate workflows.
-- View Align behavior.
-- Auto Orient results.
-- Point / Line / Plane feature alignment.
-- Registration and best-fit behavior.
-- Surface placement.
-- High-density mesh performance.
-- Complete vs Lite workflow expectations.
-- Installation experience.
-- Compatibility concerns.
-- Documentation clarity.
-- BlendKit delivery or listing issues after release.
-
-Useful feedback examples:
-
-> “Equal Gaps should preserve this object ordering rule.”
-
-> “View Align behaves differently in this viewport orientation.”
-
-> “Auto Orient should prioritize this axis for this type of mesh.”
-
-> “The Lite edition should keep this Align workflow.”
-
-> “Best Fit takes too long on this mesh density.”
-
----
-
-## Quick links
-
-- [Download Complete on BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/)
-- [Download Lite on BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/)
-
-- [Support repository](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support)
-- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/discussions)
-- [Open a new issue](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/issues/new/choose)
-- [Report a bug](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/issues/new?template=feature_request.yml)
-- [Report a compatibility issue](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/issues/new?template=compatibility_issue.yml)
-
----
-
-## Before you post
-
-Please include as much of the following information as possible:
-
-- Edition: Complete or Lite.
-- Add-on version.
-- Blender version.
-- Operating system.
-- Installation method.
-- Clear steps to reproduce.
-- Expected result.
-- Actual result.
-- Error message, screenshot, or console output when available.
-
-For compatibility or performance issues, please also include:
-
-- Blender build type, if known.
-- Portable or installed Blender version.
-- Object Mode or Edit Mode.
-- Object types involved.
-- Selection and active-object state.
-- Approximate mesh density for geometry-heavy workflows.
-- Performance Profile when relevant.
-- Whether the issue happens with a clean Blender configuration.
-
----
-
-## Use Discussions for
-
-- Questions.
-- How-to topics.
-- Installation help.
-- Compatibility checks.
-- FAQ.
-- Suggestions.
-- Release feedback.
-- Complete vs Lite workflow feedback.
-- Performance observations.
-- Workflow ideas.
-
----
-
-## Use Issues for
-
-- Confirmed bugs.
-- Reproducible compatibility problems.
-- Alignment problems.
-- Distribution problems.
-- Transform workflow problems.
-- Auto Orient problems.
-- Feature alignment problems.
-- Registration / best-fit problems.
-- Surface workflow problems.
-- Utility workflow problems.
-- Feature requests.
-- Regressions.
-- Documentation errors.
-- Provider or delivery problems after release.
-
----
-
-## Where to post
-
-Open a **Discussion** for:
-
-- General questions.
-- Setup help.
-- Workflow advice.
-- Suggestions.
-- Release feedback.
-
-Open an **Issue** for:
-
-- Confirmed bugs.
-- Reproducible compatibility problems.
-- Alignment, distribution, transform, geometry, registration, or utility failures.
-- Regressions.
-- Feature requests.
-- Documentation problems.
-
----
-
-## Support policy
-
-This repository is a public support hub.
-
-Do not post:
-
-- Private account details.
-- LICENSE keys.
-- Payment information.
-- Confidential production files.
-- Private client files.
-- Sensitive system information.
-
-If a private file is required to reproduce an issue, please describe the problem first and wait for further instructions.
 
 ---
 
@@ -498,7 +317,7 @@ The add-on is intended to work locally inside Blender.
 
 ## Availability
 
-Official installable releases are distributed through **BlendKit**:
+Official installable releases are distributed through BlendKit:
 
 - [DRH - Object Layout Studio Complete](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/)
 - [DRH - Object Layout Studio Lite](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/)
@@ -515,20 +334,23 @@ This GitHub repository remains the central public location for support, document
 
 ---
 
-## LICENSE
 
-This repository is distributed under **GPL-3.0-or-later**.
+## Support
+
+Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/discussions) for setup questions, workflow guidance, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, and focused feature requests.
+
+Do not post credentials, payment information, license keys, confidential production files, private client material, or sensitive local paths.
+
+Detailed guidance is available in [SUPPORT.md](SUPPORT.md).
+
+## Support DRH development
+
+Development support is optional. Contributions through [Ko-fi](https://ko-fi.com/pacosalasv) help cover maintenance, Blender compatibility work, documentation, and testing.
+
+## License
+
+This repository is distributed under GPL-3.0-or-later.
 
 ---
 
 <div align="center">
-
-### DRH Add-ons
-
-**Blender tools, updates, and releases.**
-
-Built for clean workflows, practical utilities, and production-friendly Blender setups.
-
-[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-
-</div>
