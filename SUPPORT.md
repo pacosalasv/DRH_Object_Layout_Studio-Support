@@ -1,6 +1,6 @@
 # DRH - Object Layout Studio — Support
 
-This repository uses the same public support workflow as the rest of the DRH Blender Tools ecosystem.
+This repository follows the common public support workflow used across the DRH Blender Tools ecosystem.
 
 ## Start here
 
@@ -18,7 +18,7 @@ This repository uses the same public support workflow as the rest of the DRH Ble
 |---|---|
 | Product version | `1.0.0` or the exact version you are using |
 | Blender version | Exact Blender version/build |
-| Operating system | Windows, macOS, or Linux version |
+| Operating system | Windows, macOS, Linux |
 | Reproduction | Clear steps from a clean or known state |
 | Expected result | What you expected to happen |
 | Actual result | What happened instead |
@@ -34,13 +34,11 @@ Do not post passwords, API keys, private account details, confidential client fi
 
 ## Release and distribution status
 
-**Released.** Free public release. GitHub is used for documentation, support, issues, and release information; installable packages are not mirrored here.
+**Released · 1.0.0.** Official installable packages are distributed through the linked product page and are not mirrored in this support repository.
 
-Official installable packages are not mirrored in this support repository.
+## Support development
 
-## Support DRH development
-
-Ko-fi support is optional. Contributions help cover maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
+Ko-fi support is optional. Contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -52,7 +50,8 @@ Ko-fi support is optional. Contributions help cover maintenance, Blender compati
 
 | Destination | Link |
 |---|---|
+| Download — Complete | [Official product page](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) |
+| Download — Lite | [Official product page](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Product repository | [DRH_Object_Layout_Studio-Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
