@@ -20,45 +20,18 @@ DRH - Object Layout Studio is a Blender workflow utility designed to make object
 
 The product is available in two editions:
 
-## Product status
-
-| Item | Details |
-|---|---|
-| Status | **Released** |
-| Version | 1.0.0 |
-| Blender | 4.2+ |
-| Platforms | Windows, macOS, Linux |
-| Availability | Free public release. |
-| Distribution | Official installable releases are distributed through the linked download page. |
-| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
-
-GitHub is used for documentation, support, issues, and release information; installable packages are not mirrored here.
-
-## Capabilities
+## Key features
 
 | Capability |
 |---|
 | Align, distribute, arrange, orient, register, ground, quantize, and transform objects with precision |
 
-## Media
-
-Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
-
-<div align="center">
-  <img width="420" alt="DRH - Object Layout Studio ScreenShot 01" src="docs/media/ScreenShot_01.png" />
-  <img width="420" alt="DRH - Object Layout Studio ScreenShot 02" src="docs/media/ScreenShot_02.png" />
-  <img width="420" alt="DRH - Object Layout Studio ScreenShot 03" src="docs/media/ScreenShot_03.png" />
-  <img width="420" alt="DRH - Object Layout Studio ScreenShot 04" src="docs/media/ScreenShot_04.png" />
-</div>
-
-Additional repository screenshots: `ScreenShot_05.png`, `ScreenShot_06.png`, `ScreenShot_07.png`, `ScreenShot_08.png`, `ScreenShot_09.png`, `ScreenShot_10.png`, `ScreenShot_11.png`.
-
-## Product reference
+## Detailed features
 
 <details>
-<summary>Open detailed feature reference</summary>
+<summary>Open detailed features</summary>
 
-### Feature reference
+### Feature details
 
 #### Align
 
@@ -151,6 +124,29 @@ Additional repository screenshots: `ScreenShot_05.png`, `ScreenShot_06.png`, `Sc
 
 </details>
 
+## Product status
+
+| Item | Details |
+|---|---|
+| Status | **Released** |
+| Version | 1.0.0 |
+| Blender | 4.2+ |
+| Platforms | Windows, macOS, Linux |
+| Availability | Free public release. |
+| Distribution | Official installable releases are distributed through the linked download page. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
+
+## Media
+
+Product screenshots:
+
+<div align="center">
+  <img width="420" alt="DRH - Object Layout Studio ScreenShot 01" src="docs/media/ScreenShot_01.png" />
+  <img width="420" alt="DRH - Object Layout Studio ScreenShot 02" src="docs/media/ScreenShot_02.png" />
+  <img width="420" alt="DRH - Object Layout Studio ScreenShot 03" src="docs/media/ScreenShot_03.png" />
+  <img width="420" alt="DRH - Object Layout Studio ScreenShot 04" src="docs/media/ScreenShot_04.png" />
+</div>
+
 ## Documentation and support
 
 | Resource | Link |
@@ -178,7 +174,8 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 | Download — Complete | [Official product page](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) |
 | Download — Lite | [Official product page](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License

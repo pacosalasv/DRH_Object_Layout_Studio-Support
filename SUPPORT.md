@@ -34,7 +34,7 @@ Do not post passwords, API keys, private account details, confidential client fi
 
 ## Release and distribution status
 
-**Released · 1.0.0.** Official installable packages are distributed through the linked product page and are not mirrored in this support repository.
+**Released · 1.0.0.** Use the linked product page for the current public release.
 
 ## Support development
 
@@ -53,5 +53,6 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 | Download — Complete | [Official product page](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) |
 | Download — Lite | [Official product page](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
