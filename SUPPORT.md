@@ -38,12 +38,14 @@ Do not post passwords, API keys, private account details, confidential client fi
 
 ## Support development
 
-Ko-fi support is optional. Contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
+Support is optional. Ko-fi and PayPal contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
     <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
+  <br />
+  <strong>Prefer PayPal?</strong> <a href="https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX">Support DRH development with PayPal</a>
 </div>
 
 ## Related links
@@ -53,6 +55,7 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 | Download Complete | [Official product page](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) |
 | Download Lite | [Official product page](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) |
 | Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| PayPal | [Support development](https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX) |
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
 | BlendKit | [DRH Blender catalog](https://www.blendkit.com/?query=author_id:205846) |
 | Paco Salas / DRH | [Official site](https://pacosalasv.blogspot.com/) |
