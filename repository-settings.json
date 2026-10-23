@@ -1,0 +1,17 @@
+{
+  "description": "Shared documentation and support for DRH - Object Layout Studio Complete and Lite. Official releases are distributed through BlendKit.",
+  "homepage": "https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "object-layout",
+    "alignment",
+    "distribution",
+    "precision-tools",
+    "technical-support",
+    "drh"
+  ]
+}
